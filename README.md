@@ -1,1 +1,2 @@
-# Leetcode_Journey
+# Follow my DSA Journey
+Following Strivers A2Z 
